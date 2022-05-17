@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlinePencreach
 - 👀 I’m Front-End web development's student
-- 🌱 I’m currently learning JavaScript, React, Node.
+- 🌱 I’m currently learning JavaScript, React, Symfony.
 - 💞️ I love Sass and use sometime Bootstrap 
 - 📫 You can reach me at aline.pencreach.code@gmail.com
 
