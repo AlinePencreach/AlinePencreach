@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@AlinePencreach**
 - 👀 I’m web development's student
-- 🌱 I’m currently learning **JavaScript** and **Symfony.**
+- 🌱 I’m currently learning **JavaScript** and **PHP.**
 - 💞️ I love **Sass** and use sometime Bootstrap 
 - 📫 You can reach me at **aline.pencreach@gmail.com**
 
