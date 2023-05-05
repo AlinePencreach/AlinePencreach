@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@AlinePencreach**
-- 👀 I’m web development
+- 👀 I’m web developer
 - 🌱 I mostly use **PHP** and its framework **Symfony**.
 - 📫 You can contact me at **pencreach.aline@gmail.com**
 
