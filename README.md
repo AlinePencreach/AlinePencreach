@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@AlinePencreach**
 - 👀 I’m web developer
-- 🌱 I mostly use **PHP** and its framework **Symfony/Laravel**.
+- 🌱 I mostly use **PHP** and I'm a **Laravel** lover.
 - 📫 You can contact me at **pencreach.aline@gmail.com**
 
 <!---
